@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\dmitriyShelkov\\2d_engine_js\\engine-r\\src\\img\\platformer",
+  "images": [
+    {
+      "name": "crouch.png",
+      "path": "C:/Users/Dimon/Downloads/warped city files/warped city files/SPRITES/player/crouch/crouch.png",
+      "folder": ""
+    }
+  ],
+  "folders": [
+    "C:/Users/Dimon/Downloads/warped city files/warped city files/SPRITES/player/idle",
+    "C:/Users/Dimon/Downloads/warped city files/warped city files/SPRITES/player/jump",
+    "C:/Users/Dimon/Downloads/warped city files/warped city files/SPRITES/player/run",
+    "C:/Users/Dimon/Downloads/warped city files/warped city files/SPRITES/player/spase",
+    "C:/Users/Dimon/Downloads/warped city files/warped city files/SPRITES/test"
+  ],
+  "packOptions": {
+    "textureName": "player",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "custom",
+    "fileName": "pack-result",
+    "savePath": "C:\\dmitriyShelkov\\2d_engine_js\\engine-r\\src\\img\\platformer",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 1,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": false,
+    "packer": "MaxRectsPacker",
+    "packerMethod": "Smart"
+  }
+}
