@@ -28,6 +28,6 @@ npm run serve
 
 # Документация модулей
 
-#### [Общие](/common/) {docsify-ignore}
+#### [Общие](./common/) {docsify-ignore}
 
-#### [Платформер](/platformer/) {docsify-ignore}
+#### [Платформер](./platformer/) {docsify-ignore}
