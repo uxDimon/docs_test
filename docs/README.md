@@ -1,6 +1,5 @@
 # Использование
 
-https://www.figma.com/file/26Gj0HAuS32zVGjSjCqJRU/_matterjs_games_engine?node-id=0%3A1
 
 Устанавливаем
 
